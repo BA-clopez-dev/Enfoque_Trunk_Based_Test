@@ -1,7 +1,6 @@
 # Test Trunk-based
 
-> Lorem ipsum
-
+> Curso DevOps con Docker, Jenkins, Kubernetes, git, GitFlow CI y CD
 
 ## Más informacion
 
